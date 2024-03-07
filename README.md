@@ -22,5 +22,5 @@ I considered _userId_ as the correct answer to the question, _id_ the question I
 
 # Important
 
-- To run the code on the ESP32 we were given, it was necessary to install the URL https://dl.espressif.com/dl/package_esp32_index.json in <mark> Additional boards manager URLs </mark>.
+- To run the code on the ESP32 we were given, it was necessary to install the URL https://dl.espressif.com/dl/package_esp32_index.json in _Additional boards manager URLs._
 - The library used to extract the data from the API needs to be manually installed and imported in the Arduino IDE. You can find the installation tutorial in source #5.
