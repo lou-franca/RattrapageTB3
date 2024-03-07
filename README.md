@@ -10,7 +10,7 @@ As I couldn't get acess to the API developed for the Web Rattrapage in time, thi
 ```
 I considered _userId_ as the correct answer to the question, _id_ the question ID and _title_ the question itself. The answer given by the students is modeled as a random number between 0 and 3.
 
-# Sources
+## Sources
 1. (delay) - [https://www.arduino.cc/reference/en/language/functions/time/delay/](https://www.arduino.cc/reference/en/language/functions/time/delay/)  
 2. (comparison) - [https://www.arduino.cc/reference/en/language/structure/comparison-operators/equalto/](https://www.arduino.cc/reference/en/language/structure/comparison-operators/equalto/) 
 3. (random) - [https://www.arduino.cc/reference/en/language/functions/random-numbers/random/](https://www.arduino.cc/reference/en/language/functions/random-numbers/random/)  
@@ -20,7 +20,7 @@ I considered _userId_ as the correct answer to the question, _id_ the question I
 7. (apiplaceholder) - [https://jsonplaceholder.typicode.com/guide/](https://jsonplaceholder.typicode.com/guide/)  
 8. (debugjson) - [https://arduinojson.org/troubleshooter/](https://arduinojson.org/troubleshooter/)  
 
-# Important
+## Important
 
 - To run the code on the ESP32 we were given, it was necessary to install the URL https://dl.espressif.com/dl/package_esp32_index.json in _Additional boards manager URLs._
 - The library used to extract the data from the API needs to be manually installed and imported in the Arduino IDE. You can find the installation tutorial in source #5.
